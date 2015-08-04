@@ -1,0 +1,16 @@
+@charset "utf-8";
+a.social{width:50px;height:50px;display:inline-block;margin-right:1%;opacity:.8;background:100% no-repeat}
+a.skype{background-size: 100%;background:url(/images/socialBtns/skypeDark.png)}
+a.skype:hover{background:url(/images/socialBtns/skype.png)}
+a.vk{background:url(/images/socialBtns/vkDark.png)}
+a.vk:hover{background:url(/images/socialBtns/vk.png)}
+a.fb{background:url(/images/socialBtns/fbDark.png)}
+a.fb:hover{background:url(/images/socialBtns/fb.png)}
+a.tw{background:url(/images/socialBtns/twDark.png)}
+a.tw:hover{background:url(/images/socialBtns/tw.png)}
+a.inst{background:url(/images/socialBtns/instDark.png)}
+a.inst:hover{background:url(/images/socialBtns/inst.png)}
+::-webkit-scrollbar{width:3px}
+::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);border-radius:10px}
+::-webkit-scrollbar-thumb{border-radius:10px;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.5);background:#ccc}
+::-webkit-scrollbar-thumb:hover{background:#fff}
