@@ -1,3 +1,7 @@
+// StepByStep.js — https://github.com/vladkampov/StepByStep.js
+// Licensed under the MIT license - http://opensource.org/licenses/MIT
+// Copyright © 2015 Vlad Kampov
+// http://kampov.com/
 (function($){
   jQuery.fn.StepByStep = function(options){
   	options = $.extend({
