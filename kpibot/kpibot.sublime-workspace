@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Sego",
+				"SegoeUIRegular"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"Segoe",
+				"SegoeUIBold"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Seg",
+				"SegoeUILight"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"r",
+				"rig	right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"Lato",
+				"LatoRegular"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"b",
+				"bubbleSize"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bubb",
+				"bubble"
+			],
+			[
+				"bubble",
+				"bubbleSize"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"activ",
+				"activeColors"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 4345,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: Ins",
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git/works/myProjects/kpibot",
+		"/C/git/works/myProjects/kpibot/css",
+		"/C/git/works/myProjects/kpibot/img"
+	],
+	"file_history":
+	[
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Hillz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Hillz/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Hillz/Desktop/smart.html",
+		"/C/git/works/md/custom__000013/system--premium/main.html",
+		"/C/git/works/md/custom__000013/system--premium/index.html",
+		"/C/git/works/md/custom__000013/system--premium/comments.html",
+		"/C/git/works/md/custom__000013/system--premium/comments_reg.html",
+		"/C/git/works/md/custom__000013/system--premium/letter.html",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/smart.html",
+		"/C/git/works/md/custom__000015/html--standart/css/custom.css",
+		"/C/git/works/md/custom__000015/html--standart/index.html",
+		"/C/git/works/md/custom__000013/html--premium/css/custom.css",
+		"/C/git/works/md/custom__000013/html--premium/index.html",
+		"/C/git/works/myProjects/kpibot/css/style.css",
+		"/C/git/works/myProjects/kpibot/index.html",
+		"/C/git/works/md/template__000009/html--standart/css/custom.css",
+		"/C/git/works/md/custom__000011/html--premium/css/custom.css",
+		"/C/git/works/md/template__000009/html--standart/index.html",
+		"/C/git/stepbystep/src/jquery.StepByStep.js",
+		"/C/git/stepbystep/index.html",
+		"/C/Users/Hillz/.ssh/known_hosts",
+		"/C/git/works/md/template__000009/system--standart/index.html",
+		"/C/git/works/md/template__000009/system--standart/comments.html",
+		"/C/git/works/md/template__000009/system--standart/comments_reg.html",
+		"/C/git/works/md/template__000009/html--standart/comments_reg.html",
+		"/C/git/works/md/template__000009/system--standart/letter.html",
+		"/C/git/works/md/template__000009/system--standart/main.html",
+		"/C/git/works/md/template__000009/system--standart/css/custom.css",
+		"/C/git/works/md/template__000009/html--standart/comments.html",
+		"/C/git/works/md/template__000009/html--standart/letter.html",
+		"/C/git/works/md/template__000009/html--standart/main.html",
+		"/D/Versii и примечание.txt",
+		"/C/Users/Hillz/Desktop/mail.php",
+		"/C/Users/Hillz/Desktop/info.php",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Hillz/Downloads/Telegram Desktop/правки.txt",
+		"/C/Users/Hillz/Desktop/.htaccess",
+		"/C/Users/Hillz/Downloads/Telegram Desktop/Для системы/Для системы/index.txt",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/jcarousellite.js",
+		"/C/git/works/md/custom__000013/html--premium/webinar.html",
+		"/C/git/works/md/custom__000013/html--premium/confirmation.html",
+		"/C/git/works/md/custom__000013/html--premium/subscription.html",
+		"/C/git/works/md/custom__000011/html--premium/index.html",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/et_flexslider.js",
+		"/C/Users/Hillz/AppData/Local/Temp/Rar$DIa0.422/style.css",
+		"/C/git/bubbles/index.html",
+		"/C/tim/index.html",
+		"/C/tim/css/style.css",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/et_flexslider 2.js",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Hillz/Desktop/wp-config.php",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/tim/js/js.js",
+		"/C/git/works/md/custom__id000006/smart.html",
+		"/C/vladkampov.github.io/index.html",
+		"/C/vladkampov.github.io/css/style.css",
+		"/C/Users/Hillz/Dropbox/id000011/p000011.sublime-project",
+		"/C/bubbles/css/style.css",
+		"/C/bubbles/src/jquery.bubbles.js",
+		"/C/bubbles/index.html",
+		"/C/Users/Hillz/Dropbox/id000011/index.html",
+		"/C/stepbystep/index.html",
+		"/C/bubbles/.gitignore",
+		"/C/stepbystep/src/jquery.StepByStep.js",
+		"/C/stepbystep/css/style.css",
+		"/C/stepbystep/.gitignore",
+		"/C/stepbystep/src/jquery.StepByStep.min.js",
+		"/C/stepbystep/README.md",
+		"/C/Users/Hillz/Dropbox/id000011/jquery.StepByStep.js",
+		"/C/Users/Hillz/Desktop/id000011/css/custom.css",
+		"/C/Users/Hillz/Desktop/id000011/index.html",
+		"/C/Users/Hillz/Desktop/landing/css/custom.css",
+		"/C/Program Files/xampp/htdocs/projects/angular-seed/app/view1/view1.html",
+		"/C/Users/Hillz/Dropbox/000091/html-premium/css/custom.css",
+		"/C/Users/Hillz/Dropbox/000091/html-premium/index.html",
+		"/C/Program Files/xampp/htdocs/projects/shopmd/skin/frontend/rwd/default/css/styles.css",
+		"/C/Users/Hillz/Desktop/Mage_Catalog.csv",
+		"/C/Program Files/xampp/htdocs/projects/shopmd/app/locale/ru_RU/Mage_Catalog.csv",
+		"/C/jic/subscribe.html",
+		"/C/jic/neworderostriv.html",
+		"/C/jic/realyneworder.html",
+		"/C/jic/mywishlist.html",
+		"/C/Program Files (x86)/Git/doc/git/html/git-config.html",
+		"/C/Users/Hillz/Desktop/promo.php",
+		"/C/Users/Hillz/Desktop/sss.html",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/promo.php",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/db_mysql.inc",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/db_mysql 2.inc",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/config.rb",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/lcfirst.php",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/class.smtp.php",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/mail.php",
+		"/C/jic/mywishlist",
+		"/C/Users/Hillz/AppData/Local/Temp/fz3temp-1/config.inc",
+		"/C/Users/Hillz/Desktop/jic/neworder.html",
+		"/C/Users/Hillz/Desktop/jic/neworderostriv.html",
+		"/C/Users/Hillz/Desktop/.gitignore",
+		"/C/Users/Hillz/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http",
+			"mamontovadeisgn",
+			"”",
+			"kampov",
+			"Regular",
+			"Так же можно использовать как",
+			"http://office.mamontovadesign.com/srv/ukrinvestgroup",
+			"MyriadPro",
+			"Bold",
+			"SegoeUI",
+			"Light",
+			"Lato",
+			"<li>",
+			"imп/c",
+			"imc/c",
+			"img/с",
+			"height",
+			"http://kampov.tigerrr.com/uploads/kampov/template/img/panda.png",
+			"#left",
+			".reg",
+			"reg",
+			"round",
+			"step-",
+			"step",
+			"Regular",
+			"Light",
+			"font-family",
+			"Light",
+			"Lato",
+			"padding: 10px 15px 10px 40px;",
+			"style",
+			"hover",
+			"</p>",
+			"<p>",
+			"h3",
+			" class=\"step-details\"",
+			"margin-bootom",
+			"Some description",
+			"margin",
+			"h3",
+			"margin-top",
+			"var div = document.createElement('div');",
+			"shade",
+			"deta",
+			"visible",
+			"<div class=\"step-nav\">\n              <i class=\"icomoon icomoon-icon-previous11 step-back\"></i>\n              <i class=\"icomoon icomoon-icon-next15 step-next\"></i>\n            </div>",
+			"Light",
+			"webkit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https",
+			"mamontovadesign",
+			"\"",
+			"mamontovadesign",
+			"Bold",
+			"Или",
+			"http://www.ukrinvestgroup.com.ua",
+			"SegoeUI",
+			"Regular",
+			"MyriadPro",
+			"Bold",
+			"SegoeUI",
+			"img/c",
+			"imп/c",
+			"imc/c",
+			"http://investtrevel.tigerrr.com/uploads/investtrevel/template/img/panda.png",
+			"Light",
+			"Regular",
+			"Helvetica",
+			"padding: 10px 15px 10px 50px;",
+			"</span>",
+			"<span>",
+			"span",
+			"",
+			"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+			"active",
+			"",
+			"Bold"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4013,
+								4013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kpibot.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

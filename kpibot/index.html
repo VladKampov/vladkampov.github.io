@@ -1,0 +1,97 @@
+<head>
+	<title>Привет, я #КПИбот</title>
+	<link rel="stylesheet" href="css/style.css">
+  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta content="width=1000" name="viewport">
+	<link href="https://office.mamontovadesign.com/lib/css/animate.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="text three_fourth">&nbsp;</div>
+			<div id="iphone" class="one_fourth last">
+				
+			</div>
+			<div class="clear"></div>
+		</div>
+	</header>
+	<section class="white">
+		<div class="container">
+			<p>&nbsp;</p>
+			<div style="float:left">
+				<h1 class="title--main">Я #<span>КПИ</span>бот</h1>
+				<h2 class="title--second">И я могу <span>многое</span>. <br>	 Но пока что только <span>расписание</span> с:</h2>
+				<p class="text--main">Привет! Я очередной бот для <a href="https://telegram.org/">Telegram</a>. 
+				Но я сделан, чтобы жизнь КПИшников стала немножечко проще. <br> <br>
+				Пока что я умею только показывать расписание (но зато как!), но это пока что. Мой функционал неограничен и будет дополняться моими создателями в будущем. А если у тебя, мой друг, есть идеи о том, как можно меня усовершенствовать, то отправляй свои идеи вот сюда — <a href="mailto:kpibot@kampov.com">kpibot@kampov.com</a> <br><br>
+				Чтобы я начал тебе помогать нужно всего лишь пройти по <a href="https://telegram.me/kpibot">ссылке</a> или найти меня по нику — <a href="https://telegram.me/kpibot">@kpibot</a> <br><br>
+				</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</section>
+	<section class="material">
+		<div class="container">
+			<p>&nbsp;</p>
+			<h1 class="title">Сейчас я уже умею следующее:</h1>
+			<div class="forcode two_third">
+				<ul>
+					<li><span>/setgroup [Номер твой группы]</span> — таким образом я тебя запомню для дальнейшей нашей совместной жизни. <br><span class="ex">(Пример: /setgroup КВ-32 или /setgroup kv-32)</span></li>
+					<li><span>/today</span> — этой командой я покажу тебе расписание на сегодня. </li>
+					<li><span>/teacher</span> — вместе с названиями предметов покажу тебе имена преподавателей.</li>
+					<li><span>/tomorrow</span> — этой командой я смогу тебе показать расписание на завтра</li>
+					<li><span>/next</span> — расскажет тебе, какая же пара следующая</li></li>
+					<li><span>/where</span> — покажет, где же ты вообще находишься (или должен находится)</li></li>
+					<li><span>/who</span> — напомнит тебе, как зовут преподавателя, который стоит перед тобой</li></li>
+					<li><span>/tt</span> — отображает полное расписание на все недели</li>
+				</ul>
+			</div>
+			<div class="one_third last">
+				<a href="https://telegram.me/kpibot" id="qr"></a>
+			</div>
+			<div class="clear"></div>
+			<p>&nbsp;</p>
+			<div class="forcode two_third">
+				<p>А ещё к каждой из комманд можно добавить <span>параметры</span></p>
+				<ul>
+					<li>Номер группы в виде <span>КВ-32</span> или <span>kv-32</span> чтобы отобразить расписание для любой конкретной группы <br>
+					<span class="ex">(Например, "<span>/today kv-52"</span> покажет расписание на сегодня для группы КВ-52)</span></li>
+					<li>Номер недели в ввиде <span>w1</span> и <span>w2</span> для вывода результата для первой или второй недели обучения соответственно <br>
+					<span class="ex">(Например, "<span>/tt w1</span>" покажет полное расписение первой недели, а "<span>/today w2</span>" посмотрит, какой сегодня день недели, и покажет расписание этого дня на второй неделе)</span>
+					</li>
+					<li>Ты можешь посмотреть расписание на конкретный день используя "<span>/today 1</span>", где "1" — номер дня недели. Да, "<span>/today mon</span>" и "<span>/today пн</span>" работают тоже.</li>
+				</ul>
+			</div>
+			<div class="examples one_third last">
+				
+				<p>А самое главное, что все эти параметры ты можешь комбинировать! Причем в любом порядке! 	<br> <br>
+				Пару примеров:
+				</p>
+				<ul>
+					<li>
+						/tt ia-25 w1
+					</li>
+					<li>
+						/tt w2 mon IA-52
+					</li>
+					<li>
+						/tt w2 mon IA-52
+					</li>
+					<li>
+						/tt KM-21 3 w1
+					</li>
+				</ul>
+				<p>Использование неправильных параметров выдаст ошибку</p>
+			</div>
+			<div class="clear"></div>
+			<p>&nbsp;</p>
+		</div>
+	</section>
+	<footer>
+		Implementation by <a href="https://github.com/Alidal">Vlad Sydorenko</a> || Idea & post-production by <a href="http://kampov.com">Vlad Kampov</a> <br>
+		Technical support by <a href="http://vk.com/antontimenko">Anton Timenko</a>
+		<p class="api">Works with the rozklad.org API</p>
+	</footer>
+</body>
