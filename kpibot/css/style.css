@@ -1,0 +1,70 @@
+/* Eric Meyer's Reset CSS v2.0 - https://cssreset.com */
+/*html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}*/
+/*END RESET*/
+/*scrollbar*/
+::-webkit-scrollbar{width:3px;height:3px}
+::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);border-radius:10px}
+::-webkit-scrollbar-thumb{border-radius:10px;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.5);background:#ccc}
+::-webkit-scrollbar-thumb:hover{background:#e7e7e7}
+a {text-decoration: none;}
+a,button,.reports a div{-webkit-transition-duration: .3s;-o-transition-duration: .3s;-moz-transition-duration: .3s;transition-duration: .3s;}
+ul.tmplt-usersList li:last-child,.tmplt-wrapHd,h2 a,ul.tmplt-usersList li:last-child {display: none;}
+html,body {width: 100%;height: 100%;margin: 0;padding: 0;min-width: 10}
+.clearfix:after {content: ".";display: block !important;height: 0;clear: both;visibility: hidden;}
+* html .clearfix {height: 1%;}
+.tmplt-usersList {background: none;border: none;box-shadow: none;width: 100%;}
+/* Hides from IE-mac \*/
+.clearfix {clear:both;}
+.container {width: 1000px;margin: 0 auto;position: relative;}
+.one_half, .one_third, .two_third, .one_fourth , .three_fourth { float:left; margin-right:4%; position:relative; }
+.one_half { width: 48%; }
+.one_third { width: 30.66%; }
+.two_third { width:65.32%; }
+.one_fourth { width:22%; }
+.three_fourth { width:74%; }
+.last { margin-right: 0px !important; clear:right; }
+.clear { clear:both; }
+/* font-family: "LatoLight"; */
+@font-face{
+    font-family: "LatoLight";
+    src: url("https://office.mamontovadesign.com/lib/fonts/Lato/LatoLight/LatoLight.eot");
+    src: url("https://office.mamontovadesign.com/lib/fonts/Lato/LatoLight/LatoLight.eot?#iefix")format("embedded-opentype"),     
+    url("https://office.mamontovadesign.com/lib/fonts/Lato/LatoLight/LatoLight.woff") format("woff"),  
+    url("https://office.mamontovadesign.com/lib/fonts/Lato/LatoLight/LatoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+body{background-position:bottom;color:#333;font-family: "LatoLight";background-color:#fff;background-image: url(../img/kpi.jpg);background-attachment: fixed;/*background-size: 100% 100%;*/}
+header{margin-top:-200px;
+    position: absolute;
+    width: 100%;}
+#iphone{width: 186px;height: 550px;background-image: url(../img/iphone.png);background-size: 100% 100%;}
+section.white{width:100%;margin-top:250px;background-color: #fff;background-image: url(../img/bg--white.jpg)}
+.title--main{font-size: 50px;margin-bottom:0;margin-top: 0;}
+.title--main span,.title--second span,.forcode span{color:#024c67;}
+.title--second{font-size: 20px;margin-top:0;}
+.text--main{width: 60%}
+a{color:#024c67;font-weight: bold;}
+a:hover{color:#c21894;}
+.forcode{
+	background-color: #f8f8f8;
+	border:1px dashed #444;
+	padding: 25px 25px 25px 0;
+    width: 62.32%;
+}
+.forcode span{font-weight: bold}
+.forcode span.ex{font-weight: normal;font-style: italic;font-size: 0.8em;color:#5e5e5e;}
+#qr{width: 306px;display:block;background-image: url(../img/qrcode.png);background-size: 100% 100%;height: 306px}
+h1.title{color:#fff;text-transform: uppercase;}
+.material{margin-top: -20px;background-image: url(../img/bg.jpg);background-attachment: fixed}
+hr{width: 40%;height: 1px;border: none;background-color: #aaa;margim:0;}
+footer{margin-top: -20px;background-color: #222;padding: 20px 0;text-align: center;font-size: 0.8em;color:#a5a5a5;}
+footer a{color:#8288f2;}
+footer a:hover{color:#83f2ac;}
+footer .api{font-size: 0.8em;opacity: 0.8;margin-bottom: 0}
+.forcode p{margin: 0;padding-left: 40px}
+.examples{
+    width: 30.66%;
+    color:#fff;
+}
+.examples li{color:#b4b8ff;}
