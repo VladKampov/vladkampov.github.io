@@ -1,1 +1,0 @@
-function fontSize(){var a=12,b=$("html").width()/1E3;1E3<=$("html").width()&&(a=Math.floor(a*b));$("body").css({fontSize:a+"px"})}$(function(){fontSize()});$(window).resize(function(){fontSize()});

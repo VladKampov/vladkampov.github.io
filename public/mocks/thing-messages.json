@@ -1,0 +1,50 @@
+[
+	{
+		"thingId": "string",
+		"rawContentTypeId": "string",
+		"mediatedContentTypeId": "string",
+		"mediatedData": "string",
+		"mediatedS3Key": "string",
+		"messageId": "123",
+		"messageTypeId": "string",
+		"eventTime": "2017-01-26",
+		"createdAt": "2017-01-26",
+		"s3Path": "string",
+		"s3Data": "string",
+		"rawS3Key": "string",
+		"s3Key": "string",
+		"rawData": "last message"
+	},
+	{
+		"thingId": "string",
+		"rawContentTypeId": "string",
+		"mediatedContentTypeId": "string",
+		"mediatedData": "string",
+		"mediatedS3Key": "string",
+		"messageId": "456",
+		"messageTypeId": "string",
+		"eventTime": "2017-01-25",
+		"createdAt": "2017-01-25",
+		"s3Path": "string",
+		"s3Data": "string",
+		"rawS3Key": "string",
+		"s3Key": "string",
+		"rawData": "previous message"
+	},
+	{
+		"thingId": "string",
+		"rawContentTypeId": "string",
+		"mediatedContentTypeId": "string",
+		"mediatedData": "string",
+		"mediatedS3Key": "string",
+		"messageId": "789",
+		"messageTypeId": "string",
+		"eventTime": "2017-01-03",
+		"createdAt": "2017-01-03",
+		"s3Path": "string",
+		"s3Data": "string",
+		"rawS3Key": "string",
+		"s3Key": "string",
+		"rawData": "old message"
+	}
+]

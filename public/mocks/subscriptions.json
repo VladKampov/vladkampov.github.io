@@ -1,0 +1,22 @@
+[
+	{
+		"id": "string",
+		"addonId": "0b41205c-ffce-42fe-bdca-e0783f074a5b",
+		"applicationId": "2da3338b-c2c4-4bb9-b90c-a3d4b8bda622",
+		"identityId": "string",
+		"state": "string",
+		"config": {},
+		"createdAt": "2017-02-02",
+		"modifiedAt": "2017-02-02"
+	},
+	{
+		"id": "string",
+		"addonId": "92af6f41-b73b-4110-917c-a825cc76c1d3",
+		"applicationId": "0b41205c-ffce-42fe-bdca-e0783f074a5b",
+		"identityId": "string",
+		"state": "string",
+		"config": {},
+		"createdAt": "2017-02-02",
+		"modifiedAt": "2017-02-02"
+	}
+]

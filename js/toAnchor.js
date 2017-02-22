@@ -1,1 +1,0 @@
-$(document).ready(function(){$("h2").append('<a href="#header">top</a>');$('a[href^="#"]').bind("click.smoothscroll",function(a){a.preventDefault();var b=this.hash;a=$(b);$("html, body").stop().animate({scrollTop:a.offset().top},900,"swing",function(){window.location.hash=b})})});
